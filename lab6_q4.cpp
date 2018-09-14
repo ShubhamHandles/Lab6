@@ -1,4 +1,4 @@
-//Q.3.MINIMUM by value and by reference.
+//Q.4.MINIMUM by value and by reference.
 
 #include<iostream>
 using namespace std;
